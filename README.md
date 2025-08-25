@@ -1,11 +1,6 @@
-<h2 align="left">Hi 👋! My name is Roberta Nicolle and I'm a Data Scientist | Python/Java Developer | AI Enthusiat, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Roberta Nicolle</h2>
 
 ###
-
-@@ -1 +1,34 @@
-# robertaNicolle-robertaNicolle
-# robertaNicolle-robertaNicolle
-<h1 align="center">Hi, I'm Roberta Nicolle 👋</h1>
 
 <p align="center">
 🚀 Data Analyst | Data Scientist | AI Enthusiast <br>
